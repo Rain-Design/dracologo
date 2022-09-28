@@ -1,5 +1,3 @@
---// 
---[[
 Library:Notify(title, description, timeout) -- If no timeout is specified it stays until you click on it
 
 Library:Window(keybind) -- Toggle Keybind
@@ -39,5 +37,3 @@ Section:ColorPicker(text, color, callback) -- color is the default color
 Section:Label(text, color)
 
 Label:Set(text, color) -- you can use just one argument like Label:Set("text") 
-]]
---//
